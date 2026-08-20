@@ -3,7 +3,7 @@ InfinityDiscord
 Official releases of InfinityDiscord.
 
 This repository contains only the distributed versions of the application.
-The source code is maintained in a private repository.
+
 
 📦 Download
 
